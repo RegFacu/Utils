@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Utils Example</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Gracias por utilizar mi librería. Cualquier bug que exista por favor reportá un issue en GitHub\nSi te parece interesante agregar algun utilitario faltante por favor generá un ticket también para agregarlo</string>
+</resources>

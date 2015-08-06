@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i(TAG, "----- Converters -----");
-        :nfo38:12", "yyyy-MM-dd hh:mm:ss").toString());
+        Log.i(TAG, "Date: " + Converters.stringToDate("2015-08-05 20:38:12", "yyyy-MM-dd hh:mm:ss").toString());
         Log.i(TAG, "-----  -----");
         Log.i(TAG, "----- ConnectionTools -----");
         ConnectionTools.isGeolocationActive(this);
